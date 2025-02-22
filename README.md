@@ -1,5 +1,6 @@
 # Python_Practice
 =================
+
 Below are 100 mixed programming challenges that emphasize control flows and loops while also covering variables, data types, operators, data structures, and functions. Work through these problems in any order to strengthen your overall Python skills:
 
 1. Write a program that prints the numbers 1 to 10 using a for loop.
